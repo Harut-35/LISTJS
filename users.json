@@ -1,0 +1,78 @@
+{ "users": [
+    {
+        "name": "Harut",
+        "age": 34,
+        "last_name": "Gharibyan"
+    },
+    
+    {
+        "name": "Artak",
+        "age": 28,
+        "last_name": "Sujyan"
+    },
+
+    {
+        "name": "Davo",
+        "age": 30,
+        "last_name": "Xaratyan"
+    },
+
+    {
+        "name": "Ashot",
+        "age": 21,
+        "last_name": "Ashotyan"
+    },
+
+
+    {
+        "name": "Artur",
+        "age": 56,
+        "last_name": "Alaverdayn"
+    },
+
+    {
+        "name": "Vahe",
+        "age": 33,
+        "last_name": "Grigoryan"
+    },
+
+
+    {
+        "name": "Mariam",
+        "age": 22,
+        "last_name": "Eghiazaryan"
+    },
+
+
+
+    {
+        "name": "Hripsime",
+        "age": 26,
+        "last_name": "Avgyan"
+    },
+
+
+
+    {
+        "name": "Lilit",
+        "age": 35,
+        "last_name": "Harutyunyan"
+    },
+
+
+
+    {
+        "name": "Valer",
+        "age": 13,
+        "last_name": "Vardanyan"
+    },
+
+
+    {
+        "name": "Karen",
+        "age": 31,
+        "last_name": "Chilingaryan"
+    }
+
+]}
+
